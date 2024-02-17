@@ -1,4 +1,6 @@
 # Steel-Essence-Sim
+Ported to GitHub, Created May 2021.
+
 Simulates Steel Essence resource averages gathered from Warframe (game) in Steel Path mode
 
 Acolyte spawns every 3-7 minutes, dropping 2 Steel Essence.
